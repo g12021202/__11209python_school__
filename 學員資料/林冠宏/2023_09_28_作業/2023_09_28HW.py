@@ -5,7 +5,7 @@ class Player:
         self.__name = n
     
     def __play() -> int:
-        pass
+        pass 
     
 
     

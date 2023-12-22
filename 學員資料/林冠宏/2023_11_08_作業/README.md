@@ -1,4 +1,4 @@
-![作業](./2023_11_08.png)
+![作業](./2023_11_08.png) 
 ```
 import psycopg2
 import csv

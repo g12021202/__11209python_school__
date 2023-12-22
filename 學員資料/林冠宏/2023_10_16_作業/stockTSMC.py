@@ -3,7 +3,6 @@ import yfinance as yf
 data = yf.download("2330.TW", start = '2023-01-01')
 data.to_csv('台積電.csv')
 
-#1, Imports the tkinter module.
 import tkinter as tk
 from tkinter import ttk
 import csv

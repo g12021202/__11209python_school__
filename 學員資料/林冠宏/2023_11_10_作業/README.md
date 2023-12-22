@@ -1,4 +1,4 @@
-建立 password.py
+建立 password.py 
 ```
 database=pw.DATABASE
 user=pw.USER
